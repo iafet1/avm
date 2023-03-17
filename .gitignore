@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# directory
+[Bb]uild
+[Bb]in
+[Dd]ata
+
+# files
+*.log
